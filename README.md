@@ -42,7 +42,7 @@ Each folder contains:
 
 | Date | Total Problems | Patterns Practiced |
 |------|----------------|--------------------|
-| Aug 2025 | 6 | Two Pointers |
+| Aug 2025 | 2 | Two Pointers |
 
 ---
 
