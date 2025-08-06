@@ -28,6 +28,7 @@ Organized collection of LeetCode problems I've solved, grouped by common algorit
 
 ### 🟦 Hash Map / Set
 | # | Problem | Difficulty | Link |
+|--|---------|------------|------|
 | 1 | Two Sum | Easy | [🔗](https://leetcode.com/problems/two-sum/description/) |
 
 ---
