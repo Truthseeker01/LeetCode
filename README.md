@@ -9,8 +9,8 @@ Organized collection of LeetCode problems I've solved, grouped by common algorit
 ### 🟦 Two Pointers
 | # | Problem | Difficulty | Link |
 |--|---------|------------|------|
-| 1 | Two Sum | Easy | [🔗](https://leetcode.com/problems/two-sum/description/) |
-| 2 | Move Zeros | Easy | [🔗](https://leetcode.com/problems/move-zeroes/description/) |
+| 1 | Move Zeros | Easy | [🔗](https://leetcode.com/problems/move-zeroes/description/) |
+| 2 | Squares of a Sorted Array | Easy | [🔗](https://leetcode.com/problems/squares-of-a-sorted-array/description/) |
 
 ---
 
@@ -27,6 +27,8 @@ Organized collection of LeetCode problems I've solved, grouped by common algorit
 ---
 
 ### 🟦 Hash Map / Set
+| # | Problem | Difficulty | Link |
+| 1 | Two Sum | Easy | [🔗](https://leetcode.com/problems/two-sum/description/) |
 
 ---
 
@@ -42,7 +44,7 @@ Each folder contains:
 
 | Date | Total Problems | Patterns Practiced |
 |------|----------------|--------------------|
-| Aug 2025 | 2 | Two Pointers |
+| Aug 2025 | 3 | Two Pointers |
 
 ---
 
