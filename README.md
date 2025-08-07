@@ -13,6 +13,7 @@ Organized collection of LeetCode problems I've solved, grouped by common algorit
 | 2 | Squares of a Sorted Array | Easy | [🔗](https://leetcode.com/problems/squares-of-a-sorted-array/description/) |
 | 3 | Backspace String Compare | Easy | [🔗](https://leetcode.com/problems/backspace-string-compare/) |
 | 4 | Merge Two Sorted Lists | Easy | [🔗](https://leetcode.com/problems/merge-two-sorted-lists/) |
+| 5 | Find the Duplicate Number | Medium | [🔗](https://leetcode.com/problems/find-the-duplicate-number/) |
 ---
 
 ### 🟨 Sliding Window
@@ -46,7 +47,7 @@ Each folder contains:
 
 | Date | Total Problems | Patterns Practiced |
 |------|----------------|--------------------|
-| Aug 2025 | 5 | Two Pointers, Hash Map/ Set |
+| Aug 2025 | 6 | Two Pointers, Hash Map/ Set |
 
 ---
 
