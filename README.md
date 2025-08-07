@@ -11,7 +11,7 @@ Organized collection of LeetCode problems I've solved, grouped by common algorit
 |--|---------|------------|------|
 | 1 | Move Zeros | Easy | [🔗](https://leetcode.com/problems/move-zeroes/description/) |
 | 2 | Squares of a Sorted Array | Easy | [🔗](https://leetcode.com/problems/squares-of-a-sorted-array/description/) |
-
+| 3 | Backspace String Compare | Easy | [🔗] (https://leetcode.com/problems/backspace-string-compare/)
 ---
 
 ### 🟨 Sliding Window
@@ -45,7 +45,7 @@ Each folder contains:
 
 | Date | Total Problems | Patterns Practiced |
 |------|----------------|--------------------|
-| Aug 2025 | 3 | Two Pointers |
+| Aug 2025 | 5 | Two Pointers |
 
 ---
 
