@@ -11,8 +11,8 @@ Organized collection of LeetCode problems I've solved, grouped by common algorit
 |--|---------|------------|------|
 | 1 | Move Zeros | Easy | [🔗](https://leetcode.com/problems/move-zeroes/description/) |
 | 2 | Squares of a Sorted Array | Easy | [🔗](https://leetcode.com/problems/squares-of-a-sorted-array/description/) |
-| 3 | Backspace String Compare | Easy | [🔗] (https://leetcode.com/problems/backspace-string-compare/)
-| 4 | Merge Two Sorted Lists | Easy | [🔗](https://leetcode.com/problems/merge-two-sorted-lists/)
+| 3 | Backspace String Compare | Easy | [🔗](https://leetcode.com/problems/backspace-string-compare/) |
+| 4 | Merge Two Sorted Lists | Easy | [🔗](https://leetcode.com/problems/merge-two-sorted-lists/) |
 ---
 
 ### 🟨 Sliding Window
