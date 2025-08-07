@@ -46,7 +46,7 @@ Each folder contains:
 
 | Date | Total Problems | Patterns Practiced |
 |------|----------------|--------------------|
-| Aug 2025 | 5 | Two Pointers |
+| Aug 2025 | 5 | Two Pointers, Hash Map/ Set |
 
 ---
 
