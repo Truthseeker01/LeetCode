@@ -14,6 +14,7 @@ Organized collection of LeetCode problems I've solved, grouped by common algorit
 | 3 | Backspace String Compare | Easy | [🔗](https://leetcode.com/problems/backspace-string-compare/) |
 | 4 | Merge Two Sorted Lists | Easy | [🔗](https://leetcode.com/problems/merge-two-sorted-lists/) |
 | 5 | Find the Duplicate Number | Medium | [🔗](https://leetcode.com/problems/find-the-duplicate-number/) |
+| 6 | 3Sum | Medium | [🔗](https://leetcode.com/problems/3sum/description/) |
 ---
 
 ### 🟨 Sliding Window
@@ -47,7 +48,7 @@ Each folder contains:
 
 | Date | Total Problems | Patterns Practiced |
 |------|----------------|--------------------|
-| Aug 2025 | 6 | Two Pointers, Hash Map/ Set |
+| Aug 2025 | 7 | Two Pointers, Hash Map/ Set |
 
 ---
 
