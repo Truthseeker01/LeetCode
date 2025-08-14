@@ -16,6 +16,7 @@ Organized collection of LeetCode problems I've solved, grouped by common algorit
 | 5 | Find the Duplicate Number | Medium | [🔗](https://leetcode.com/problems/find-the-duplicate-number/) |
 | 6 | 3Sum | Medium | [🔗](https://leetcode.com/problems/3sum/description/) |
 | 7 | Sort Colors | Medium | [🔗](https://leetcode.com/problems/sort-colors/description/) |
+| 8 | Container with More Water | Medium | [🔗](https://leetcode.com/problems/container-with-most-water/description/) |
 ---
 
 ### 🟨 Sliding Window
@@ -49,7 +50,7 @@ Each folder contains:
 
 | Date | Total Problems | Patterns Practiced |
 |------|----------------|--------------------|
-| Aug 2025 | 7 | Two Pointers, Hash Map/ Set |
+| Aug 2025 | 9 | Two Pointers, Hash Map/ Set |
 
 ---
 
